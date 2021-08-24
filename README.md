@@ -33,3 +33,4 @@ trees = [[1,2],[2,2],[4,2]]
 Output: [2.50000,2.00000,1.50000]
 Explanation: The fence will have center = (2.5, 2) and radius = 1.5
 We will be using welzls algorithm, which help us find the minimum enclosing circle. 
+![2021-08-24 (5)](https://user-images.githubusercontent.com/88893810/130540698-a435e10c-2c6e-4cc2-b840-97159625ca34.png)
